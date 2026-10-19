@@ -13,7 +13,7 @@ I'm an **Assistant Manager, Distribution & Operations at Atica Global** in Pune,
 - **Channel activation automation** (n8n, AI-assisted drafting). One form sends onboarding emails to up to 10 booking channels and tracks every follow-up. Cut activation from 10–15 days to 2–3 days.
 - **Operations analytics dashboards** (SQL, Metabase). Four dashboards, 150+ charts, built where no reporting existed: volumes, turnaround, 4-hour SLA compliance, ageing and breaches, on one SQL model that unifies Salesforce tasks and Jira tickets.
 
-Received the **Trailblazer Award** from Atica Global's CTO in Dec 2025 for building the first production automation tools in Sales & Operations.
+Received the **Trailblazer Award** from Atica Global's CTO in Nov 2025 for building the first production automation tools in Sales & Operations.
 
 **Tools I use:** n8n · Hyperbrowser · Appsmith · JavaScript · SQL (PostgreSQL) · Metabase · Salesforce · Jira Service Management · Excel · Google Sheets · REST APIs
 
