@@ -11,7 +11,7 @@ I'm an **Assistant Manager, Distribution & Operations at Atica Global** in Pune,
 - **SARAH, automated RFP submission** (core team, Operations). Cross-functional n8n product that finds and submits HotelPlanner RFPs; I wrote the BRDs and mapped the process. Live on 200+ properties, turnaround down from 24+ hours to 2–4 hours.
 - **Group Pricing Calculator** (Excel). Recommends group rates from five years of hotel data; 90%+ rate accuracy in the pilot, then handed to the Tech team in Apr 2026.
 - **Channel activation automation** (n8n, AI-assisted drafting). One form sends onboarding emails to up to 10 booking channels and tracks every follow-up. Cut activation from 10–15 days to 2–3 days.
-- **Operations dashboards** (SQL, Metabase). SLA, task management and exception tracking for the Operations team.
+- **Operations analytics dashboards** (SQL, Metabase). Four dashboards, 150+ charts, built where no reporting existed: volumes, turnaround, 4-hour SLA compliance, ageing and breaches, on one SQL model that unifies Salesforce tasks and Jira tickets.
 
 Received the **Trailblazer Award** from Atica Global's CTO in Dec 2025 for building the first production automation tools in Sales & Operations.
 
